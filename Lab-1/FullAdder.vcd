@@ -1,0 +1,52 @@
+$date
+	Tue Aug  6 22:03:19 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 1 ! carry $end
+$var wire 1 " sum $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % Cin $end
+$scope module FA_O $end
+$var wire 1 & A $end
+$var wire 1 ' B $end
+$var wire 1 ( Cin $end
+$var wire 1 ! carry $end
+$var wire 1 " sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+1"
+1#
+1&
+#10
+1!
+0"
+1$
+1'
+#15
+1"
+1%
+1(
+#20
+0"
+0#
+0&

@@ -1,0 +1,120 @@
+$date
+	Tue Aug  6 22:08:49 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 1 ! cout $end
+$var wire 4 " sum [3:0] $end
+$var reg 4 # A [3:0] $end
+$var reg 4 $ B [3:0] $end
+$var reg 1 % cin $end
+$scope module fba_0 $end
+$var wire 4 & A [3:0] $end
+$var wire 4 ' B [3:0] $end
+$var wire 1 ( Cin $end
+$var wire 1 ! carry $end
+$var wire 4 ) sum [3:0] $end
+$var wire 1 * w0 $end
+$var wire 1 + w1 $end
+$var wire 1 , w2 $end
+$scope module FA_0 $end
+$var wire 1 - A $end
+$var wire 1 . B $end
+$var wire 1 ( Cin $end
+$var wire 1 * carry $end
+$var wire 1 / sum $end
+$upscope $end
+$scope module FA_1 $end
+$var wire 1 0 A $end
+$var wire 1 1 B $end
+$var wire 1 * Cin $end
+$var wire 1 + carry $end
+$var wire 1 2 sum $end
+$upscope $end
+$scope module FA_2 $end
+$var wire 1 3 A $end
+$var wire 1 4 B $end
+$var wire 1 + Cin $end
+$var wire 1 , carry $end
+$var wire 1 5 sum $end
+$upscope $end
+$scope module FA_3 $end
+$var wire 1 6 A $end
+$var wire 1 7 B $end
+$var wire 1 , Cin $end
+$var wire 1 ! carry $end
+$var wire 1 8 sum $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+b0 )
+0(
+b0 '
+b0 &
+0%
+b0 $
+b0 #
+b0 "
+0!
+$end
+#5
+1/
+b1 "
+b1 )
+1-
+b1 #
+b1 &
+#10
+12
+b11 "
+b11 )
+10
+b11 #
+b11 &
+#15
+15
+1+
+02
+1*
+0/
+b100 "
+b100 )
+1%
+1(
+#20
+1/
+b101 "
+b101 )
+1.
+b1 $
+b1 '
+#25
+18
+b1101 "
+b1101 )
+17
+b1001 $
+b1001 '

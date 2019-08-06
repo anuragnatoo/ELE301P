@@ -1,0 +1,196 @@
+$date
+	Tue Aug  6 22:09:11 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 1 ! carry $end
+$var wire 8 " sum [7:0] $end
+$var reg 8 # A [7:0] $end
+$var reg 8 $ B [7:0] $end
+$var reg 1 % cin $end
+$scope module e8ba_0 $end
+$var wire 8 & A [7:0] $end
+$var wire 8 ' B [7:0] $end
+$var wire 1 ( Cin $end
+$var wire 1 ! carry $end
+$var wire 8 ) sum [7:0] $end
+$var wire 1 * w0 $end
+$scope module e8ba_0 $end
+$var wire 4 + A [3:0] $end
+$var wire 4 , B [3:0] $end
+$var wire 1 ( Cin $end
+$var wire 1 * carry $end
+$var wire 4 - sum [3:0] $end
+$var wire 1 . w0 $end
+$var wire 1 / w1 $end
+$var wire 1 0 w2 $end
+$scope module FA_0 $end
+$var wire 1 1 A $end
+$var wire 1 2 B $end
+$var wire 1 ( Cin $end
+$var wire 1 . carry $end
+$var wire 1 3 sum $end
+$upscope $end
+$scope module FA_1 $end
+$var wire 1 4 A $end
+$var wire 1 5 B $end
+$var wire 1 . Cin $end
+$var wire 1 / carry $end
+$var wire 1 6 sum $end
+$upscope $end
+$scope module FA_2 $end
+$var wire 1 7 A $end
+$var wire 1 8 B $end
+$var wire 1 / Cin $end
+$var wire 1 0 carry $end
+$var wire 1 9 sum $end
+$upscope $end
+$scope module FA_3 $end
+$var wire 1 : A $end
+$var wire 1 ; B $end
+$var wire 1 0 Cin $end
+$var wire 1 * carry $end
+$var wire 1 < sum $end
+$upscope $end
+$upscope $end
+$scope module e8ba_1 $end
+$var wire 4 = A [3:0] $end
+$var wire 4 > B [3:0] $end
+$var wire 1 * Cin $end
+$var wire 1 ! carry $end
+$var wire 4 ? sum [3:0] $end
+$var wire 1 @ w0 $end
+$var wire 1 A w1 $end
+$var wire 1 B w2 $end
+$scope module FA_0 $end
+$var wire 1 C A $end
+$var wire 1 D B $end
+$var wire 1 * Cin $end
+$var wire 1 @ carry $end
+$var wire 1 E sum $end
+$upscope $end
+$scope module FA_1 $end
+$var wire 1 F A $end
+$var wire 1 G B $end
+$var wire 1 @ Cin $end
+$var wire 1 A carry $end
+$var wire 1 H sum $end
+$upscope $end
+$scope module FA_2 $end
+$var wire 1 I A $end
+$var wire 1 J B $end
+$var wire 1 A Cin $end
+$var wire 1 B carry $end
+$var wire 1 K sum $end
+$upscope $end
+$scope module FA_3 $end
+$var wire 1 L A $end
+$var wire 1 M B $end
+$var wire 1 B Cin $end
+$var wire 1 ! carry $end
+$var wire 1 N sum $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0N
+0M
+0L
+0K
+0J
+0I
+0H
+0G
+0F
+1E
+0D
+1C
+0B
+0A
+0@
+b1 ?
+b0 >
+b1 =
+1<
+0;
+1:
+09
+08
+07
+16
+15
+04
+13
+12
+01
+00
+0/
+0.
+b1011 -
+b11 ,
+b1000 +
+0*
+b11011 )
+0(
+b11 '
+b11000 &
+0%
+b11 $
+b11000 #
+b11011 "
+0!
+$end
+#10
+0<
+b10011 "
+b10011 )
+b11 -
+0:
+b0 +
+b10000 #
+b10000 &
+#20
+1H
+1@
+03
+06
+b0 -
+0E
+b100000 "
+b100000 )
+b10 ?
+02
+05
+1D
+b0 ,
+b1 >
+b10000 $
+b10000 '
+#30
+13
+b100001 "
+b100001 )
+b1 -
+1%
+1(
+#40
+16
+19
+1<
+b101111 "
+b101111 )
+b1111 -
+14
+17
+1:
+b1110 +
+b11110 #
+b11110 &
