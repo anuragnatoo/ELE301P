@@ -1,0 +1,31 @@
+Outputs-N22 N23 
+
+Inputs-N1 N2 N3 N6 N7 
+
+Wires-N10 N11 N16 N19 
+
+Input Probablilities
+N1-0.5
+N7-0.5
+N2-0.5
+N3-0.5
+N6-0.5
+
+
+Wire Probablilities
+N11-0.75
+N10-0.75
+N19-0.625
+N16-0.625
+
+
+Output Probablilities
+N23-0.609375
+N22-0.53125
+
+
+Activity factors of all the outputs go here
+Activity factor-N23-0.238037109375
+Activity factor-N22-0.2490234375
+
+
