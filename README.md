@@ -5,7 +5,7 @@ VLSI System Design Practice Lab
 * Verilog
   * Adders:
     * Ripple Carry Adders: 4 bit,8 bit,16 bit,32 bit and 64 bit Ripple Carry Adder implemented in Verilog HDL
-    * Carry Save Adder: A 64 bit Recursive Doubling Adder implemented in Verilog HDL
+    * Carry Save Adder: A 16 bit Recursive Doubling Adder implemented in Verilog HDL
 * Python
   * Test Bench Generator: A python application which generates a test bench of a given verilog file
     * To RUN the file : `python3 tbgen.py filename.v`
